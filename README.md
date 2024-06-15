@@ -1,7 +1,12 @@
 # [ENC]
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 [![pyLint](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml/badge.svg?branch=main)](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml)
 
+`Heroku`
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+  
 __Still in beta…__
 
 ### Variables
