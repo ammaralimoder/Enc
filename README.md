@@ -6,6 +6,9 @@
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ammaralimoder/Enc/tree/main)
 
+
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/ammaralimoder/Enc)
+
   
 __Still in beta…__
 
